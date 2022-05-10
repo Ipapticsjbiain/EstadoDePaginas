@@ -6,13 +6,13 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: IPAP Web
-    url: http://ipap.chaco.gov.ar/
+    url: http://ipap.chaco.gov.ar
   - name: IPAP App
-    url: http://app.ipap.chaco.gov.ar/asistencias_beta/
+    url: http://app.ipap.chaco.gov.ar/asistencias_beta
   - name: IPAP Certificados
-    url: http://certificados.ipap.chaco.gov.ar/
+    url: http://certificados.ipap.chaco.gov.ar
   - name: IPAP Virtual
-    url: http://ipapvirtual.chaco.gov.ar/
+    url: http://ipapvirtual.chaco.gov.ar
 assignees: 
   - Ipapticsjbiain
 
