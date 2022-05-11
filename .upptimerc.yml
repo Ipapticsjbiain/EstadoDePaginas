@@ -36,6 +36,5 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-NOTIFICATION_EMAIL: true
-NOTIFICATION_EMAIL_TO: ipap.tics.jbiain@gmail.com
+
 
