@@ -13,8 +13,8 @@ sites:
     url: http://certificados.ipap.chaco.gov.ar
   - name: IPAP Virtual
     url: http://ipapvirtual.chaco.gov.ar
-  - name: another test
-    url: http://ipapvirsaa.chaco.gov.ara
+  #- name: another test
+  #  url: http://ipapvirsaa.chaco.gov.ara
 assignees: 
   - Ipapticsjbiain
 
