@@ -22,9 +22,9 @@
     "url": "http://ipap.chaco.gov.ar",
     "icon": "https://favicons.githubusercontent.com/ipap.chaco.gov.ar",
     "slug": "ipap-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.88%",
@@ -34,6 +34,7 @@
     "timeMonth": 2157,
     "timeYear": 2045,
     "dailyMinutesDown": {
+      "2022-07-06": 0,
       "2022-06-25": 26,
       "2022-06-19": 69
     }
@@ -43,18 +44,19 @@
     "url": "http://app.ipap.chaco.gov.ar/asistencias_beta",
     "icon": "https://favicons.githubusercontent.com/app.ipap.chaco.gov.ar",
     "slug": "ipap-app",
-    "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "99.88%",
+    "uptimeYear": "99.89%",
     "time": 1133,
     "timeDay": 979,
     "timeWeek": 965,
     "timeMonth": 1215,
     "timeYear": 1133,
     "dailyMinutesDown": {
+      "2022-07-06": 0,
       "2022-06-25": 26,
       "2022-06-19": 68
     }
@@ -64,9 +66,9 @@
     "url": "http://certificados.ipap.chaco.gov.ar",
     "icon": "https://favicons.githubusercontent.com/certificados.ipap.chaco.gov.ar",
     "slug": "ipap-certificados",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.92%",
@@ -76,6 +78,7 @@
     "timeMonth": 1009,
     "timeYear": 892,
     "dailyMinutesDown": {
+      "2022-07-06": 0,
       "2022-06-19": 68
     }
   },
