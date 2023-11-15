@@ -1,7 +1,7 @@
 url: http://certificados.ipap.chaco.gov.ar
-status: down
-code: 503
-responseTime: 550
-lastUpdated: 2023-11-15T12:36:41.342Z
+status: up
+code: 200
+responseTime: 1666
+lastUpdated: 2023-11-15T14:23:54.399Z
 startTime: 2022-05-10T13:51:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
