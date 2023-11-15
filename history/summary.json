@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "97.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.93%",
-    "uptimeMonth": "12.34%",
+    "uptimeWeek": "64.96%",
+    "uptimeMonth": "13.04%",
     "uptimeYear": "91.90%",
     "time": 111,
-    "timeDay": 76,
-    "timeWeek": 147,
+    "timeDay": 77,
+    "timeWeek": 146,
     "timeMonth": 120,
     "timeYear": 108,
     "dailyMinutesDown": {
@@ -62,11 +62,11 @@
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.75%",
-    "time": 4362,
-    "timeDay": 3884,
-    "timeWeek": 4298,
-    "timeMonth": 2996,
-    "timeYear": 4005,
+    "time": 4363,
+    "timeDay": 3967,
+    "timeWeek": 4330,
+    "timeMonth": 2989,
+    "timeYear": 3983,
     "dailyMinutesDown": {
       "2023-11-14": 26,
       "2023-11-03": 80,
@@ -84,8 +84,7 @@
       "2023-01-10": 19,
       "2023-01-01": 38,
       "2022-12-16": 16,
-      "2022-12-06": 17,
-      "2022-11-15": 431
+      "2022-12-06": 17
     }
   },
   {
@@ -94,18 +93,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.ipap.chaco.gov.ar.ico",
     "slug": "ipap-app",
     "status": "down",
-    "uptime": "10.32%",
+    "uptime": "10.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 3363,
-    "timeDay": 1871,
-    "timeWeek": 1485,
-    "timeMonth": 1666,
-    "timeYear": 3055,
+    "time": 3362,
+    "timeDay": 851,
+    "timeWeek": 1434,
+    "timeMonth": 1632,
+    "timeYear": 3043,
     "dailyMinutesDown": {
-      "2023-11-14": 1191,
+      "2023-11-15": 57,
+      "2023-11-14": 1440,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
@@ -468,8 +468,7 @@
       "2022-11-19": 1440,
       "2022-11-18": 1440,
       "2022-11-17": 1440,
-      "2022-11-16": 1440,
-      "2022-11-15": 1440
+      "2022-11-16": 1440
     }
   },
   {
@@ -483,11 +482,11 @@
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.83%",
-    "time": 3302,
-    "timeDay": 1452,
-    "timeWeek": 1925,
-    "timeMonth": 1706,
-    "timeYear": 3020,
+    "time": 3293,
+    "timeDay": 1349,
+    "timeWeek": 1447,
+    "timeMonth": 1686,
+    "timeYear": 2999,
     "dailyMinutesDown": {
       "2023-11-14": 25,
       "2023-11-11": 23,
@@ -501,8 +500,7 @@
       "2023-02-15": 109,
       "2023-01-27": 40,
       "2023-01-10": 18,
-      "2023-01-01": 37,
-      "2022-11-15": 417
+      "2023-01-01": 37
     }
   },
   {
@@ -517,10 +515,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.82%",
     "time": 3394,
-    "timeDay": 1967,
-    "timeWeek": 1825,
-    "timeMonth": 1788,
-    "timeYear": 3356,
+    "timeDay": 1613,
+    "timeWeek": 1717,
+    "timeMonth": 1753,
+    "timeYear": 3345,
     "dailyMinutesDown": {
       "2023-11-14": 25,
       "2023-10-17": 17,
@@ -534,8 +532,7 @@
       "2023-01-27": 40,
       "2023-01-10": 17,
       "2023-01-01": 37,
-      "2022-12-21": 19,
-      "2022-11-15": 415
+      "2022-12-21": 19
     }
   },
   {
@@ -546,13 +543,13 @@
     "status": "up",
     "uptime": "94.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.93%",
-    "uptimeMonth": "12.34%",
+    "uptimeWeek": "64.96%",
+    "uptimeMonth": "13.04%",
     "uptimeYear": "91.90%",
     "time": 101,
-    "timeDay": 50,
+    "timeDay": 71,
     "timeWeek": 119,
-    "timeMonth": 118,
+    "timeMonth": 117,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2023-11-10": 709,
