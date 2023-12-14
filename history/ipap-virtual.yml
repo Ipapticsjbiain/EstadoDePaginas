@@ -1,7 +1,7 @@
 url: http://ipapvirtual.chaco.gov.ar
-status: down
-code: 503
-responseTime: 1486
-lastUpdated: 2023-12-14T17:49:40.723Z
+status: up
+code: 200
+responseTime: 1959
+lastUpdated: 2023-12-14T17:59:02.989Z
 startTime: 2022-05-10T13:51:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
