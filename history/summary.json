@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.75%",
+    "uptimeYear": "93.02%",
     "time": 108,
-    "timeDay": 123,
-    "timeWeek": 99,
-    "timeMonth": 101,
-    "timeYear": 107,
+    "timeDay": 190,
+    "timeWeek": 115,
+    "timeMonth": 105,
+    "timeYear": 108,
     "dailyMinutesDown": {
       "2024-05-01": 34,
       "2023-11-10": 709,
@@ -40,8 +40,7 @@
       "2023-10-21": 1440,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
-      "2023-10-18": 1440,
-      "2023-10-17": 1440
+      "2023-10-18": 1440
     }
   },
   {
@@ -50,18 +49,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipap.chaco.gov.ar.ico",
     "slug": "ipap-web",
     "status": "down",
-    "uptime": "90.70%",
+    "uptime": "90.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "81.63%",
-    "time": 2378,
+    "uptimeYear": "81.36%",
+    "time": 2379,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2345,
     "dailyMinutesDown": {
-      "2024-10-15": 73,
+      "2024-10-16": 73,
+      "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -158,18 +158,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.ipap.chaco.gov.ar.ico",
     "slug": "ipap-app",
     "status": "down",
-    "uptime": "6.43%",
+    "uptime": "6.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1640,
+    "time": 1639,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1616,
     "dailyMinutesDown": {
-      "2024-10-15": 73,
+      "2024-10-16": 73,
+      "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -532,8 +533,7 @@
       "2023-10-21": 1440,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
-      "2023-10-18": 1440,
-      "2023-10-17": 1440
+      "2023-10-18": 1440
     }
   },
   {
@@ -542,18 +542,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/certificados.ipap.chaco.gov.ar.ico",
     "slug": "ipap-certificados",
     "status": "down",
-    "uptime": "90.76%",
+    "uptime": "90.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "81.68%",
-    "time": 1582,
+    "uptimeYear": "81.41%",
+    "time": 1583,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1585,
+    "timeYear": 1586,
     "dailyMinutesDown": {
-      "2024-10-15": 73,
+      "2024-10-16": 73,
+      "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -635,8 +636,7 @@
       "2023-11-18": 23,
       "2023-11-15": 107,
       "2023-11-14": 25,
-      "2023-11-11": 23,
-      "2023-10-17": 17
+      "2023-11-11": 23
     }
   },
   {
@@ -645,18 +645,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipapvirtual.chaco.gov.ar.ico",
     "slug": "ipap-virtual",
     "status": "down",
-    "uptime": "92.48%",
+    "uptime": "92.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "81.92%",
-    "time": 1823,
+    "uptimeYear": "81.65%",
+    "time": 1824,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1794,
+    "timeYear": 1793,
     "dailyMinutesDown": {
-      "2024-10-15": 73,
+      "2024-10-16": 73,
+      "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -735,8 +736,7 @@
       "2023-12-12": 80,
       "2023-11-18": 23,
       "2023-11-15": 72,
-      "2023-11-14": 25,
-      "2023-10-17": 17
+      "2023-11-14": 25
     }
   },
   {
@@ -749,11 +749,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "92.74%",
+    "uptimeYear": "93.02%",
     "time": 103,
-    "timeDay": 95,
-    "timeWeek": 95,
-    "timeMonth": 98,
+    "timeDay": 200,
+    "timeWeek": 112,
+    "timeMonth": 101,
     "timeYear": 99,
     "dailyMinutesDown": {
       "2024-10-06": 23,
@@ -781,8 +781,7 @@
       "2023-10-21": 1440,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
-      "2023-10-18": 1440,
-      "2023-10-17": 1440
+      "2023-10-18": 1440
     }
   },
   {
