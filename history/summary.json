@@ -11,9 +11,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.97%",
     "time": 126,
-    "timeDay": 84,
-    "timeWeek": 130,
-    "timeMonth": 175,
+    "timeDay": 83,
+    "timeWeek": 131,
+    "timeMonth": 173,
     "timeYear": 135,
     "dailyMinutesDown": {
       "2025-12-21": 34,
@@ -30,7 +30,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipap.chaco.gov.ar.ico",
     "slug": "ipap-web",
     "status": "down",
-    "uptime": "62.92%",
+    "uptime": "62.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -41,7 +41,8 @@
     "timeMonth": 0,
     "timeYear": 1768,
     "dailyMinutesDown": {
-      "2025-12-27": 288,
+      "2025-12-28": 107,
+      "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
@@ -377,8 +378,7 @@
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
-      "2024-12-29": 1440,
-      "2024-12-28": 1440
+      "2024-12-29": 1440
     }
   },
   {
@@ -392,13 +392,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1244,
+    "time": 1204,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1204,
     "dailyMinutesDown": {
-      "2025-12-27": 288,
+      "2025-12-28": 107,
+      "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
@@ -761,8 +762,7 @@
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
-      "2024-12-29": 1440,
-      "2024-12-28": 1440
+      "2024-12-29": 1440
     }
   },
   {
@@ -771,7 +771,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/certificados.ipap.chaco.gov.ar.ico",
     "slug": "ipap-certificados",
     "status": "down",
-    "uptime": "60.92%",
+    "uptime": "60.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -782,7 +782,8 @@
     "timeMonth": 0,
     "timeYear": 1256,
     "dailyMinutesDown": {
-      "2025-12-27": 288,
+      "2025-12-28": 107,
+      "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
@@ -1144,8 +1145,7 @@
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
-      "2024-12-29": 1440,
-      "2024-12-28": 1440
+      "2024-12-29": 1440
     }
   },
   {
@@ -1155,17 +1155,18 @@
     "slug": "ipap-virtual",
     "status": "up",
     "uptime": "80.18%",
-    "uptimeDay": "93.89%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "66.29%",
-    "time": 1958,
-    "timeDay": 2168,
-    "timeWeek": 2089,
-    "timeMonth": 2112,
-    "timeYear": 2086,
+    "uptimeDay": "87.81%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "66.51%",
+    "time": 1962,
+    "timeDay": 2265,
+    "timeWeek": 2132,
+    "timeMonth": 2118,
+    "timeYear": 2087,
     "dailyMinutesDown": {
-      "2025-12-27": 29,
+      "2025-12-28": 107,
+      "2025-12-27": 69,
       "2025-12-26": 59,
       "2025-12-25": 35,
       "2025-12-06": 25,
@@ -1298,8 +1299,7 @@
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
-      "2024-12-29": 1440,
-      "2024-12-28": 1440
+      "2024-12-29": 1440
     }
   },
   {
@@ -1314,9 +1314,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.97%",
     "time": 174,
-    "timeDay": 77,
+    "timeDay": 79,
     "timeWeek": 150,
-    "timeMonth": 198,
+    "timeMonth": 156,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2025-12-21": 34,
