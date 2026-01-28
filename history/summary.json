@@ -11,9 +11,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 131,
-    "timeDay": 295,
-    "timeWeek": 332,
-    "timeMonth": 175,
+    "timeDay": 134,
+    "timeWeek": 323,
+    "timeMonth": 176,
     "timeYear": 138,
     "dailyMinutesDown": {
       "2026-01-18": 50,
@@ -31,7 +31,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipap.chaco.gov.ar.ico",
     "slug": "ipap-web",
     "status": "down",
-    "uptime": "61.47%",
+    "uptime": "61.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -42,7 +42,8 @@
     "timeMonth": 0,
     "timeYear": 1768,
     "dailyMinutesDown": {
-      "2026-01-27": 623,
+      "2026-01-28": 2,
+      "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -378,8 +379,7 @@
       "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
-      "2025-01-29": 1440,
-      "2025-01-28": 1440
+      "2025-01-29": 1440
     }
   },
   {
@@ -399,7 +399,8 @@
     "timeMonth": 0,
     "timeYear": 1204,
     "dailyMinutesDown": {
-      "2026-01-27": 623,
+      "2026-01-28": 2,
+      "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -762,8 +763,7 @@
       "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
-      "2025-01-29": 1440,
-      "2025-01-28": 1440
+      "2025-01-29": 1440
     }
   },
   {
@@ -771,18 +771,19 @@
     "url": "http://certificados.ipap.chaco.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/certificados.ipap.chaco.gov.ar.ico",
     "slug": "ipap-certificados",
-    "status": "up",
-    "uptime": "59.86%",
-    "uptimeDay": "97.89%",
-    "uptimeWeek": "66.20%",
-    "uptimeMonth": "13.33%",
-    "uptimeYear": "1.75%",
-    "time": 1101,
-    "timeDay": 1214,
-    "timeWeek": 1074,
-    "timeMonth": 1074,
-    "timeYear": 1101,
+    "status": "down",
+    "uptime": "59.87%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "74.31%",
+    "uptimeMonth": "15.19%",
+    "uptimeYear": "1.90%",
+    "time": 1105,
+    "timeDay": 1203,
+    "timeWeek": 1080,
+    "timeMonth": 1080,
+    "timeYear": 1105,
     "dailyMinutesDown": {
+      "2026-01-28": 1,
       "2026-01-27": 30,
       "2026-01-26": 31,
       "2026-01-25": 80,
@@ -1144,8 +1145,7 @@
       "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
-      "2025-01-29": 1440,
-      "2025-01-28": 1440
+      "2025-01-29": 1440
     }
   },
   {
@@ -1153,18 +1153,19 @@
     "url": "http://ipapvirtual.chaco.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/ipapvirtual.chaco.gov.ar.ico",
     "slug": "ipap-virtual",
-    "status": "up",
-    "uptime": "80.48%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "96.77%",
-    "uptimeMonth": "93.01%",
-    "uptimeYear": "74.27%",
-    "time": 2071,
-    "timeDay": 2314,
-    "timeWeek": 2224,
-    "timeMonth": 2294,
+    "status": "down",
+    "uptime": "80.49%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "93.11%",
+    "uptimeYear": "74.42%",
+    "time": 2073,
+    "timeDay": 2185,
+    "timeWeek": 2226,
+    "timeMonth": 2288,
     "timeYear": 2134,
     "dailyMinutesDown": {
+      "2026-01-28": 0,
       "2026-01-27": 30,
       "2026-01-26": 31,
       "2026-01-25": 80,
@@ -1292,8 +1293,7 @@
       "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
-      "2025-01-29": 1440,
-      "2025-01-28": 1440
+      "2025-01-29": 1440
     }
   },
   {
@@ -1308,9 +1308,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 177,
-    "timeDay": 303,
-    "timeWeek": 161,
-    "timeMonth": 145,
+    "timeDay": 125,
+    "timeWeek": 154,
+    "timeMonth": 147,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2026-01-18": 50,
