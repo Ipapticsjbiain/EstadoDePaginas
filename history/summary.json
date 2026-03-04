@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
     "time": 135,
-    "timeDay": 113,
-    "timeWeek": 128,
-    "timeMonth": 148,
+    "timeDay": 143,
+    "timeWeek": 130,
+    "timeMonth": 146,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2026-02-20": 31,
@@ -32,7 +32,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipap.chaco.gov.ar.ico",
     "slug": "ipap-web",
     "status": "down",
-    "uptime": "59.94%",
+    "uptime": "59.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -43,7 +43,8 @@
     "timeMonth": 0,
     "timeYear": 1768,
     "dailyMinutesDown": {
-      "2026-03-03": 122,
+      "2026-03-04": 116,
+      "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
@@ -379,8 +380,7 @@
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
-      "2025-03-05": 1440,
-      "2025-03-04": 1440
+      "2025-03-05": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 1204,
     "dailyMinutesDown": {
-      "2026-03-03": 122,
+      "2026-03-04": 116,
+      "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
@@ -763,8 +764,7 @@
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
-      "2025-03-05": 1440,
-      "2025-03-04": 1440
+      "2025-03-05": 1440
     }
   },
   {
@@ -773,16 +773,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/certificados.ipap.chaco.gov.ar.ico",
     "slug": "ipap-certificados",
     "status": "up",
-    "uptime": "60.73%",
-    "uptimeDay": "85.78%",
-    "uptimeWeek": "94.59%",
-    "uptimeMonth": "95.78%",
-    "uptimeYear": "10.72%",
-    "time": 1127,
-    "timeDay": 1262,
-    "timeWeek": 1147,
-    "timeMonth": 1134,
-    "timeYear": 1127,
+    "uptime": "60.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.98%",
+    "uptimeMonth": "95.85%",
+    "uptimeYear": "10.99%",
+    "time": 1126,
+    "timeDay": 978,
+    "timeWeek": 1145,
+    "timeMonth": 1133,
+    "timeYear": 1126,
     "dailyMinutesDown": {
       "2026-03-02": 204,
       "2026-03-01": 35,
@@ -1134,8 +1134,7 @@
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
-      "2025-03-05": 1440,
-      "2025-03-04": 1440
+      "2025-03-05": 1440
     }
   },
   {
@@ -1145,14 +1144,14 @@
     "slug": "ipap-virtual",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "85.91%",
-    "uptimeWeek": "94.64%",
-    "uptimeMonth": "95.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.02%",
+    "uptimeMonth": "95.88%",
     "uptimeYear": "98.83%",
     "time": 2144,
-    "timeDay": 2362,
-    "timeWeek": 2220,
-    "timeMonth": 2207,
+    "timeDay": 2180,
+    "timeWeek": 2203,
+    "timeMonth": 2206,
     "timeYear": 2144,
     "dailyMinutesDown": {
       "2026-03-02": 204,
@@ -1227,8 +1226,8 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
     "time": 179,
-    "timeDay": 111,
-    "timeWeek": 120,
+    "timeDay": 135,
+    "timeWeek": 124,
     "timeMonth": 122,
     "timeYear": 202,
     "dailyMinutesDown": {
