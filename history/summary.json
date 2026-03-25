@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
     "time": 137,
-    "timeDay": 100,
-    "timeWeek": 152,
-    "timeMonth": 138,
+    "timeDay": 315,
+    "timeWeek": 155,
+    "timeMonth": 144,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2026-03-15": 22,
@@ -33,7 +33,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipap.chaco.gov.ar.ico",
     "slug": "ipap-web",
     "status": "down",
-    "uptime": "59.05%",
+    "uptime": "59.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -44,7 +44,8 @@
     "timeMonth": 0,
     "timeYear": 1768,
     "dailyMinutesDown": {
-      "2026-03-24": 119,
+      "2026-03-25": 124,
+      "2026-03-24": 1440,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
@@ -380,8 +381,7 @@
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
-      "2025-03-26": 1440,
-      "2025-03-25": 1440
+      "2025-03-26": 1440
     }
   },
   {
@@ -401,7 +401,8 @@
     "timeMonth": 0,
     "timeYear": 1204,
     "dailyMinutesDown": {
-      "2026-03-24": 119,
+      "2026-03-25": 124,
+      "2026-03-24": 1440,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
@@ -764,8 +765,7 @@
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
-      "2025-03-26": 1440,
-      "2025-03-25": 1440
+      "2025-03-26": 1440
     }
   },
   {
@@ -774,15 +774,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/certificados.ipap.chaco.gov.ar.ico",
     "slug": "ipap-certificados",
     "status": "up",
-    "uptime": "62.33%",
+    "uptime": "62.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "97.38%",
-    "uptimeYear": "16.36%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "97.70%",
+    "uptimeYear": "16.63%",
     "time": 1132,
-    "timeDay": 1203,
-    "timeWeek": 1192,
-    "timeMonth": 1146,
+    "timeDay": 1173,
+    "timeWeek": 1224,
+    "timeMonth": 1149,
     "timeYear": 1132,
     "dailyMinutesDown": {
       "2026-03-20": 99,
@@ -1124,8 +1124,7 @@
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
-      "2025-03-26": 1440,
-      "2025-03-25": 1440
+      "2025-03-26": 1440
     }
   },
   {
@@ -1136,13 +1135,13 @@
     "status": "up",
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.33%",
-    "uptimeMonth": "97.55%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "97.87%",
     "uptimeYear": "99.08%",
     "time": 2152,
-    "timeDay": 1943,
-    "timeWeek": 2239,
-    "timeMonth": 2248,
+    "timeDay": 2132,
+    "timeWeek": 2272,
+    "timeMonth": 2243,
     "timeYear": 2152,
     "dailyMinutesDown": {
       "2026-03-20": 99,
@@ -1217,9 +1216,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
     "time": 181,
-    "timeDay": 101,
-    "timeWeek": 128,
-    "timeMonth": 127,
+    "timeDay": 344,
+    "timeWeek": 159,
+    "timeMonth": 135,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2026-03-15": 22,
