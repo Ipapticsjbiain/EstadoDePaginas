@@ -46,7 +46,8 @@
     "timeMonth": 0,
     "timeYear": 1768,
     "dailyMinutesDown": {
-      "2026-04-13": 1423,
+      "2026-04-14": 7,
+      "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
@@ -382,8 +383,7 @@
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
-      "2025-04-15": 1440,
-      "2025-04-14": 1440
+      "2025-04-15": 1440
     }
   },
   {
@@ -403,7 +403,8 @@
     "timeMonth": 0,
     "timeYear": 1204,
     "dailyMinutesDown": {
-      "2026-04-13": 1423,
+      "2026-04-14": 7,
+      "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
@@ -766,8 +767,7 @@
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
-      "2025-04-15": 1440,
-      "2025-04-14": 1440
+      "2025-04-15": 1440
     }
   },
   {
@@ -775,19 +775,20 @@
     "url": "http://certificados.ipap.chaco.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/certificados.ipap.chaco.gov.ar.ico",
     "slug": "ipap-certificados",
-    "status": "down",
+    "status": "up",
     "uptime": "63.07%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "92.06%",
-    "uptimeMonth": "96.16%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "91.83%",
+    "uptimeMonth": "96.10%",
     "uptimeYear": "21.84%",
     "time": 1157,
-    "timeDay": 0,
-    "timeWeek": 1175,
-    "timeMonth": 1224,
+    "timeDay": 1151,
+    "timeWeek": 1174,
+    "timeMonth": 1223,
     "timeYear": 1157,
     "dailyMinutesDown": {
-      "2026-04-13": 1,
+      "2026-04-14": 7,
+      "2026-04-13": 17,
       "2026-04-12": 91,
       "2026-04-11": 184,
       "2026-04-10": 167,
@@ -1121,8 +1122,7 @@
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
-      "2025-04-15": 1440,
-      "2025-04-14": 1440
+      "2025-04-15": 1440
     }
   },
   {
@@ -1130,19 +1130,20 @@
     "url": "http://ipapvirtual.chaco.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/ipapvirtual.chaco.gov.ar.ico",
     "slug": "ipap-virtual",
-    "status": "down",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "92.11%",
-    "uptimeMonth": "96.32%",
-    "uptimeYear": "99.02%",
-    "time": 2168,
-    "timeDay": 0,
-    "timeWeek": 2271,
-    "timeMonth": 2330,
-    "timeYear": 2168,
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "91.88%",
+    "uptimeMonth": "96.27%",
+    "uptimeYear": "99.01%",
+    "time": 2169,
+    "timeDay": 2282,
+    "timeWeek": 2272,
+    "timeMonth": 2329,
+    "timeYear": 2169,
     "dailyMinutesDown": {
-      "2026-04-13": 0,
+      "2026-04-14": 7,
+      "2026-04-13": 17,
       "2026-04-12": 89,
       "2026-04-11": 183,
       "2026-04-10": 166,
