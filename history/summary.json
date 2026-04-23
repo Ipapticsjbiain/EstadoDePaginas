@@ -36,7 +36,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipap.chaco.gov.ar.ico",
     "slug": "ipap-web",
     "status": "down",
-    "uptime": "57.83%",
+    "uptime": "57.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -47,7 +47,7 @@
     "timeMonth": 0,
     "timeYear": 1768,
     "dailyMinutesDown": {
-      "2026-04-23": 151,
+      "2026-04-23": 846,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
@@ -404,7 +404,7 @@
     "timeMonth": 0,
     "timeYear": 1204,
     "dailyMinutesDown": {
-      "2026-04-23": 151,
+      "2026-04-23": 846,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
@@ -776,18 +776,19 @@
     "url": "http://certificados.ipap.chaco.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/certificados.ipap.chaco.gov.ar.ico",
     "slug": "ipap-certificados",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "92.08%",
-    "uptimeWeek": "93.91%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "93.90%",
     "uptimeMonth": "95.12%",
-    "uptimeYear": "98.92%",
+    "uptimeYear": "98.93%",
     "time": 1161,
-    "timeDay": 1152,
+    "timeDay": 1185,
     "timeWeek": 1231,
     "timeMonth": 1226,
     "timeYear": 1161,
     "dailyMinutesDown": {
+      "2026-04-23": 1,
       "2026-04-22": 114,
       "2026-04-21": 52,
       "2026-04-20": 56,
@@ -848,8 +849,7 @@
       "2026-01-28": 283,
       "2026-01-27": 30,
       "2026-01-26": 31,
-      "2026-01-25": 80,
-      "2026-01-24": 36
+      "2026-01-25": 80
     }
   },
   {
@@ -857,18 +857,19 @@
     "url": "http://ipapvirtual.chaco.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/ipapvirtual.chaco.gov.ar.ico",
     "slug": "ipap-virtual",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "92.11%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "93.95%",
     "uptimeMonth": "95.15%",
     "uptimeYear": "98.94%",
     "time": 2172,
-    "timeDay": 2126,
+    "timeDay": 2168,
     "timeWeek": 2279,
     "timeMonth": 2313,
     "timeYear": 2172,
     "dailyMinutesDown": {
+      "2026-04-23": 0,
       "2026-04-22": 114,
       "2026-04-21": 52,
       "2026-04-20": 55,
@@ -930,8 +931,7 @@
       "2026-01-27": 30,
       "2026-01-26": 31,
       "2026-01-25": 80,
-      "2026-01-24": 36,
-      "2026-01-22": 34
+      "2026-01-24": 36
     }
   },
   {
@@ -940,7 +940,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "test4",
     "status": "up",
-    "uptime": "97.92%",
+    "uptime": "97.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.82%",
     "uptimeMonth": "99.47%",
