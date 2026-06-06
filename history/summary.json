@@ -46,7 +46,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 1013,
+      "2026-06-06": 1199,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
@@ -430,7 +430,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 1013,
+      "2026-06-06": 1199,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
@@ -802,19 +802,18 @@
     "url": "http://certificados.ipap.chaco.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/certificados.ipap.chaco.gov.ar.ico",
     "slug": "ipap-certificados",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "57.21%",
-    "uptimeWeek": "86.01%",
-    "uptimeMonth": "84.53%",
-    "uptimeYear": "97.72%",
+    "uptimeDay": "63.27%",
+    "uptimeWeek": "86.03%",
+    "uptimeMonth": "84.52%",
+    "uptimeYear": "97.73%",
     "time": 1142,
     "timeDay": 1003,
     "timeWeek": 1057,
     "timeMonth": 1063,
     "timeYear": 1141,
     "dailyMinutesDown": {
-      "2026-02-07": 22,
       "2026-02-08": 102,
       "2026-02-09": 364,
       "2026-02-11": 85,
@@ -888,7 +887,7 @@
       "2026-06-03": 476,
       "2026-06-04": 270,
       "2026-06-05": 112,
-      "2026-06-06": 505
+      "2026-06-06": 510
     }
   },
   {
@@ -896,10 +895,10 @@
     "url": "http://ipapvirtual.chaco.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/ipapvirtual.chaco.gov.ar.ico",
     "slug": "ipap-virtual",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "58.55%",
-    "uptimeWeek": "86.44%",
+    "uptimeDay": "64.61%",
+    "uptimeWeek": "86.46%",
     "uptimeMonth": "84.74%",
     "uptimeYear": "97.76%",
     "time": 2176,
@@ -908,7 +907,7 @@
     "timeMonth": 2216,
     "timeYear": 2194,
     "dailyMinutesDown": {
-      "2026-02-07": 40,
+      "2026-02-07": 22,
       "2026-02-08": 102,
       "2026-02-09": 362,
       "2026-02-11": 83,
@@ -982,7 +981,7 @@
       "2026-06-03": 466,
       "2026-06-04": 260,
       "2026-06-05": 107,
-      "2026-06-06": 490
+      "2026-06-06": 491
     }
   },
   {
