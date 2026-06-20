@@ -35,7 +35,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipap.chaco.gov.ar.ico",
     "slug": "ipap-web",
     "status": "down",
-    "uptime": "55.60%",
+    "uptime": "55.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -46,7 +46,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-20": 24,
+      "2026-06-20": 212,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
@@ -430,7 +430,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-20": 24,
+      "2026-06-20": 212,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
@@ -803,11 +803,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/certificados.ipap.chaco.gov.ar.ico",
     "slug": "ipap-certificados",
     "status": "down",
-    "uptime": "99.23%",
+    "uptime": "99.22%",
     "uptimeDay": "75.11%",
-    "uptimeWeek": "71.16%",
-    "uptimeMonth": "71.73%",
-    "uptimeYear": "96.84%",
+    "uptimeWeek": "69.29%",
+    "uptimeMonth": "71.30%",
+    "uptimeYear": "96.80%",
     "time": 1135,
     "timeDay": 1104,
     "timeWeek": 1122,
@@ -882,7 +882,7 @@
       "2026-06-16": 376,
       "2026-06-18": 260,
       "2026-06-19": 369,
-      "2026-06-20": 5
+      "2026-06-20": 194
     }
   },
   {
@@ -893,9 +893,9 @@
     "status": "down",
     "uptime": "99.24%",
     "uptimeDay": "75.78%",
-    "uptimeWeek": "71.83%",
-    "uptimeMonth": "72.17%",
-    "uptimeYear": "96.89%",
+    "uptimeWeek": "69.96%",
+    "uptimeMonth": "71.74%",
+    "uptimeYear": "96.85%",
     "time": 2178,
     "timeDay": 2250,
     "timeWeek": 2343,
@@ -970,7 +970,7 @@
       "2026-06-16": 371,
       "2026-06-18": 255,
       "2026-06-19": 360,
-      "2026-06-20": 1
+      "2026-06-20": 189
     }
   },
   {
@@ -979,13 +979,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "test4",
     "status": "up",
-    "uptime": "98.00%",
+    "uptime": "98.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 179,
-    "timeDay": 92,
+    "timeDay": 71,
     "timeWeek": 78,
     "timeMonth": 77,
     "timeYear": 197,
