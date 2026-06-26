@@ -35,7 +35,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipap.chaco.gov.ar.ico",
     "slug": "ipap-web",
     "status": "down",
-    "uptime": "55.36%",
+    "uptime": "55.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -46,7 +46,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-26": 571,
+      "2026-06-26": 1123,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -430,7 +430,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-26": 571,
+      "2026-06-26": 1123,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -802,19 +802,18 @@
     "url": "http://certificados.ipap.chaco.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/certificados.ipap.chaco.gov.ar.ico",
     "slug": "ipap-certificados",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "67.69%",
-    "uptimeWeek": "82.87%",
-    "uptimeMonth": "78.63%",
-    "uptimeYear": "96.60%",
+    "uptimeDay": "67.31%",
+    "uptimeWeek": "82.82%",
+    "uptimeMonth": "78.62%",
+    "uptimeYear": "96.61%",
     "time": 1135,
     "timeDay": 1019,
     "timeWeek": 1112,
     "timeMonth": 1075,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2026-03-25": 50,
       "2026-03-26": 58,
       "2026-03-27": 41,
       "2026-03-28": 61,
@@ -879,7 +878,7 @@
       "2026-06-19": 369,
       "2026-06-20": 513,
       "2026-06-21": 690,
-      "2026-06-26": 465
+      "2026-06-26": 470
     }
   },
   {
@@ -887,9 +886,9 @@
     "url": "http://ipapvirtual.chaco.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/ipapvirtual.chaco.gov.ar.ico",
     "slug": "ipap-virtual",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "68.03%",
+    "uptimeDay": "67.98%",
     "uptimeWeek": "83.25%",
     "uptimeMonth": "79.11%",
     "uptimeYear": "96.66%",
@@ -899,7 +898,6 @@
     "timeMonth": 2226,
     "timeYear": 2197,
     "dailyMinutesDown": {
-      "2026-03-25": 49,
       "2026-03-26": 58,
       "2026-03-27": 41,
       "2026-03-28": 60,
@@ -964,7 +962,7 @@
       "2026-06-19": 360,
       "2026-06-20": 499,
       "2026-06-21": 675,
-      "2026-06-26": 460
+      "2026-06-26": 461
     }
   },
   {
