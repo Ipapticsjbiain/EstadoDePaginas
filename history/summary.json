@@ -46,7 +46,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-05": 175,
+      "2026-07-05": 309,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -430,7 +430,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-05": 175,
+      "2026-07-05": 310,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -802,15 +802,15 @@
     "url": "http://certificados.ipap.chaco.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/certificados.ipap.chaco.gov.ar.ico",
     "slug": "ipap-certificados",
-    "status": "down",
+    "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "73.13%",
-    "uptimeWeek": "86.69%",
-    "uptimeMonth": "76.71%",
-    "uptimeYear": "96.48%",
+    "uptimeDay": "63.86%",
+    "uptimeWeek": "85.37%",
+    "uptimeMonth": "76.40%",
+    "uptimeYear": "96.46%",
     "time": 1139,
-    "timeDay": 1107,
-    "timeWeek": 1244,
+    "timeDay": 1112,
+    "timeWeek": 1238,
     "timeMonth": 1119,
     "timeYear": 1138,
     "dailyMinutesDown": {
@@ -874,7 +874,7 @@
       "2026-07-01": 219,
       "2026-07-03": 80,
       "2026-07-04": 291,
-      "2026-07-05": 96
+      "2026-07-05": 230
     }
   },
   {
@@ -882,16 +882,16 @@
     "url": "http://ipapvirtual.chaco.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/ipapvirtual.chaco.gov.ar.ico",
     "slug": "ipap-virtual",
-    "status": "down",
-    "uptime": "99.17%",
-    "uptimeDay": "74.80%",
-    "uptimeWeek": "87.31%",
-    "uptimeMonth": "77.31%",
-    "uptimeYear": "96.55%",
-    "time": 2185,
-    "timeDay": 2147,
-    "timeWeek": 2306,
-    "timeMonth": 2255,
+    "status": "up",
+    "uptime": "99.16%",
+    "uptimeDay": "65.53%",
+    "uptimeWeek": "85.99%",
+    "uptimeMonth": "77.01%",
+    "uptimeYear": "96.53%",
+    "time": 2186,
+    "timeDay": 2172,
+    "timeWeek": 2304,
+    "timeMonth": 2256,
     "timeYear": 2202,
     "dailyMinutesDown": {
       "2026-04-11": 183,
@@ -954,7 +954,7 @@
       "2026-07-01": 214,
       "2026-07-03": 76,
       "2026-07-04": 271,
-      "2026-07-05": 92
+      "2026-07-05": 226
     }
   },
   {
