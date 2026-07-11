@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 134,
-    "timeDay": 56,
-    "timeWeek": 85,
+    "timeDay": 126,
+    "timeWeek": 86,
     "timeMonth": 78,
     "timeYear": 141,
     "dailyMinutesDown": {
@@ -46,7 +46,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-10": 1331,
+      "2026-07-11": 150,
+      "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
@@ -409,8 +410,7 @@
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
-      "2025-07-12": 1440,
-      "2025-07-11": 1440
+      "2025-07-12": 1440
     }
   },
   {
@@ -430,7 +430,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-10": 1331,
+      "2026-07-11": 150,
+      "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
@@ -793,8 +794,7 @@
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
-      "2025-07-12": 1440,
-      "2025-07-11": 1440
+      "2025-07-12": 1440
     }
   },
   {
@@ -804,14 +804,14 @@
     "slug": "ipap-certificados",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "94.22%",
+    "uptimeDay": "95.48%",
     "uptimeWeek": "85.71%",
     "uptimeMonth": "81.91%",
     "uptimeYear": "96.34%",
     "time": 1139,
-    "timeDay": 1069,
-    "timeWeek": 1266,
-    "timeMonth": 1157,
+    "timeDay": 1003,
+    "timeWeek": 1128,
+    "timeMonth": 1144,
     "timeYear": 1138,
     "dailyMinutesDown": {
       "2026-04-14": 115,
@@ -890,11 +890,11 @@
     "uptimeWeek": "86.36%",
     "uptimeMonth": "82.43%",
     "uptimeYear": "96.41%",
-    "time": 2187,
-    "timeDay": 2195,
-    "timeWeek": 2356,
-    "timeMonth": 2306,
-    "timeYear": 2205,
+    "time": 2189,
+    "timeDay": 2783,
+    "timeWeek": 2336,
+    "timeMonth": 2323,
+    "timeYear": 2207,
     "dailyMinutesDown": {
       "2026-04-14": 120,
       "2026-04-13": 17,
@@ -973,9 +973,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 177,
-    "timeDay": 54,
-    "timeWeek": 83,
-    "timeMonth": 77,
+    "timeDay": 121,
+    "timeWeek": 84,
+    "timeMonth": 78,
     "timeYear": 196,
     "dailyMinutesDown": {
       "2025-08-05": 16,
