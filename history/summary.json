@@ -46,7 +46,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-13": 159,
+      "2026-07-13": 493,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -430,7 +430,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-13": 159,
+      "2026-07-13": 493,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -802,11 +802,11 @@
     "url": "http://certificados.ipap.chaco.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/certificados.ipap.chaco.gov.ar.ico",
     "slug": "ipap-certificados",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "90.34%",
-    "uptimeMonth": "83.31%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "90.29%",
+    "uptimeMonth": "83.30%",
     "uptimeYear": "96.35%",
     "time": 1139,
     "timeDay": 1236,
@@ -814,8 +814,7 @@
     "timeMonth": 1153,
     "timeYear": 1138,
     "dailyMinutesDown": {
-      "2026-04-15": 91,
-      "2026-04-14": 18,
+      "2026-04-15": 83,
       "2026-04-17": 6,
       "2026-04-16": 19,
       "2026-04-18": 75,
@@ -877,7 +876,8 @@
       "2026-07-08": 155,
       "2026-07-10": 70,
       "2026-07-09": 13,
-      "2026-07-11": 53
+      "2026-07-11": 53,
+      "2026-07-13": 5
     }
   },
   {
@@ -885,20 +885,20 @@
     "url": "http://ipapvirtual.chaco.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/ipapvirtual.chaco.gov.ar.ico",
     "slug": "ipap-virtual",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "90.81%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "90.80%",
     "uptimeMonth": "83.81%",
-    "uptimeYear": "96.41%",
+    "uptimeYear": "96.42%",
     "time": 2191,
     "timeDay": 2442,
     "timeWeek": 2477,
     "timeMonth": 2353,
     "timeYear": 2209,
     "dailyMinutesDown": {
-      "2026-04-14": 113,
       "2026-04-15": 91,
+      "2026-04-14": 17,
       "2026-04-17": 6,
       "2026-04-16": 18,
       "2026-04-18": 73,
@@ -959,7 +959,8 @@
       "2026-07-07": 469,
       "2026-07-08": 150,
       "2026-07-10": 60,
-      "2026-07-11": 48
+      "2026-07-11": 48,
+      "2026-07-13": 1
     }
   },
   {
