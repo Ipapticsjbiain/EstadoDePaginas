@@ -46,7 +46,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 149,
+      "2026-07-22": 238,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -430,7 +430,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 149,
+      "2026-07-22": 238,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -802,19 +802,18 @@
     "url": "http://certificados.ipap.chaco.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/certificados.ipap.chaco.gov.ar.ico",
     "slug": "ipap-certificados",
-    "status": "up",
-    "uptime": "99.09%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.39%",
-    "uptimeMonth": "89.33%",
-    "uptimeYear": "96.19%",
+    "status": "down",
+    "uptime": "99.10%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "93.22%",
+    "uptimeMonth": "89.32%",
+    "uptimeYear": "96.21%",
     "time": 1137,
     "timeDay": 1179,
     "timeWeek": 1089,
     "timeMonth": 1152,
     "timeYear": 1137,
     "dailyMinutesDown": {
-      "2026-04-22": 114,
       "2026-04-23": 119,
       "2026-04-24": 147,
       "2026-04-25": 144,
@@ -876,7 +875,8 @@
       "2026-07-17": 58,
       "2026-07-18": 120,
       "2026-07-19": 140,
-      "2026-07-20": 354
+      "2026-07-20": 354,
+      "2026-07-22": 5
     }
   },
   {
@@ -884,19 +884,18 @@
     "url": "http://ipapvirtual.chaco.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/ipapvirtual.chaco.gov.ar.ico",
     "slug": "ipap-virtual",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.67%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "93.55%",
     "uptimeMonth": "89.73%",
-    "uptimeYear": "96.26%",
+    "uptimeYear": "96.27%",
     "time": 2192,
     "timeDay": 2572,
     "timeWeek": 2236,
     "timeMonth": 2327,
     "timeYear": 2208,
     "dailyMinutesDown": {
-      "2026-04-21": 52,
       "2026-04-22": 114,
       "2026-04-23": 119,
       "2026-04-24": 146,
@@ -958,7 +957,8 @@
       "2026-07-17": 53,
       "2026-07-18": 115,
       "2026-07-19": 131,
-      "2026-07-20": 345
+      "2026-07-20": 345,
+      "2026-07-22": 1
     }
   },
   {
