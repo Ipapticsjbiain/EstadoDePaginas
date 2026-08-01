@@ -46,7 +46,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-01": 979,
+      "2026-08-01": 1032,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -430,7 +430,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-01": 979,
+      "2026-08-01": 1032,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -802,16 +802,16 @@
     "url": "http://certificados.ipap.chaco.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/certificados.ipap.chaco.gov.ar.ico",
     "slug": "ipap-certificados",
-    "status": "down",
+    "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "89.06%",
-    "uptimeMonth": "90.21%",
-    "uptimeYear": "96.16%",
+    "uptimeDay": "95.96%",
+    "uptimeWeek": "88.53%",
+    "uptimeMonth": "90.09%",
+    "uptimeYear": "96.15%",
     "time": 1137,
-    "timeDay": 1041,
-    "timeWeek": 1139,
-    "timeMonth": 1156,
+    "timeDay": 1048,
+    "timeWeek": 1134,
+    "timeMonth": 1154,
     "timeYear": 1136,
     "dailyMinutesDown": {
       "2026-05-07": 92,
@@ -873,7 +873,7 @@
       "2026-07-28": 250,
       "2026-07-29": 351,
       "2026-07-31": 145,
-      "2026-08-01": 5
+      "2026-08-01": 58
     }
   },
   {
@@ -881,15 +881,15 @@
     "url": "http://ipapvirtual.chaco.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/ipapvirtual.chaco.gov.ar.ico",
     "slug": "ipap-virtual",
-    "status": "down",
+    "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "89.63%",
-    "uptimeMonth": "90.64%",
-    "uptimeYear": "96.24%",
+    "uptimeDay": "96.30%",
+    "uptimeWeek": "89.10%",
+    "uptimeMonth": "90.52%",
+    "uptimeYear": "96.23%",
     "time": 2195,
-    "timeDay": 2344,
-    "timeWeek": 2339,
+    "timeDay": 2328,
+    "timeWeek": 2337,
     "timeMonth": 2327,
     "timeYear": 2212,
     "dailyMinutesDown": {
@@ -952,7 +952,7 @@
       "2026-07-28": 235,
       "2026-07-29": 333,
       "2026-07-31": 140,
-      "2026-08-01": 1
+      "2026-08-01": 53
     }
   },
   {
