@@ -45,7 +45,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-20": 698,
+      "2026-09-20": 888,
       "2026-09-19": 1440,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
@@ -429,7 +429,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-20": 698,
+      "2026-09-20": 888,
       "2026-09-19": 1440,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
@@ -801,16 +801,16 @@
     "url": "http://certificados.ipap.chaco.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/certificados.ipap.chaco.gov.ar.ico",
     "slug": "ipap-certificados",
-    "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "98.32%",
-    "uptimeYear": "97.21%",
+    "status": "up",
+    "uptime": "99.35%",
+    "uptimeDay": "86.48%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "97.89%",
+    "uptimeYear": "97.18%",
     "time": 1132,
-    "timeDay": 1025,
-    "timeWeek": 1102,
-    "timeMonth": 1080,
+    "timeDay": 1015,
+    "timeWeek": 1090,
+    "timeMonth": 1078,
     "timeYear": 1131,
     "dailyMinutesDown": {
       "2026-06-08": 676,
@@ -872,7 +872,7 @@
       "2026-08-21": 68,
       "2026-08-26": 55,
       "2026-09-07": 606,
-      "2026-09-20": 5
+      "2026-09-20": 195
     }
   },
   {
@@ -880,15 +880,15 @@
     "url": "http://ipapvirtual.chaco.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/ipapvirtual.chaco.gov.ar.ico",
     "slug": "ipap-virtual",
-    "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.39%",
-    "uptimeYear": "97.30%",
-    "time": 2211,
-    "timeDay": 2383,
-    "timeWeek": 2338,
+    "status": "up",
+    "uptime": "99.37%",
+    "uptimeDay": "86.81%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "97.96%",
+    "uptimeYear": "97.27%",
+    "time": 2212,
+    "timeDay": 2317,
+    "timeWeek": 2327,
     "timeMonth": 2257,
     "timeYear": 2236,
     "dailyMinutesDown": {
@@ -951,7 +951,7 @@
       "2026-08-21": 58,
       "2026-08-26": 50,
       "2026-09-07": 596,
-      "2026-09-20": 1
+      "2026-09-20": 190
     }
   },
   {
