@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 132,
-    "timeDay": 62,
-    "timeWeek": 119,
+    "timeDay": 84,
+    "timeWeek": 114,
     "timeMonth": 94,
     "timeYear": 140,
     "dailyMinutesDown": {
@@ -34,18 +34,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipap.chaco.gov.ar.ico",
     "slug": "ipap-web",
     "status": "down",
-    "uptime": "52.18%",
+    "uptime": "52.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1732,
+    "time": 1738,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-26": 215,
+      "2026-09-27": 224,
+      "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
       "2026-09-23": 1440,
@@ -408,8 +409,7 @@
       "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
-      "2025-09-28": 1440,
-      "2025-09-27": 1440
+      "2025-09-28": 1440
     }
   },
   {
@@ -429,7 +429,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-26": 215,
+      "2026-09-27": 224,
+      "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
       "2026-09-23": 1440,
@@ -792,8 +793,7 @@
       "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
-      "2025-09-28": 1440,
-      "2025-09-27": 1440
+      "2025-09-28": 1440
     }
   },
   {
@@ -805,12 +805,12 @@
     "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.15%",
-    "uptimeMonth": "97.37%",
+    "uptimeMonth": "97.50%",
     "uptimeYear": "97.17%",
     "time": 1130,
-    "timeDay": 1125,
-    "timeWeek": 1071,
-    "timeMonth": 1090,
+    "timeDay": 1198,
+    "timeWeek": 1090,
+    "timeMonth": 1087,
     "timeYear": 1130,
     "dailyMinutesDown": {
       "2026-06-08": 388,
@@ -885,12 +885,12 @@
     "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.24%",
-    "uptimeMonth": "97.43%",
+    "uptimeMonth": "97.54%",
     "uptimeYear": "97.21%",
     "time": 2218,
-    "timeDay": 1983,
-    "timeWeek": 2409,
-    "timeMonth": 2318,
+    "timeDay": 2233,
+    "timeWeek": 2393,
+    "timeMonth": 2299,
     "timeYear": 2240,
     "dailyMinutesDown": {
       "2026-06-08": 666,
@@ -967,8 +967,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 175,
-    "timeDay": 61,
-    "timeWeek": 118,
+    "timeDay": 76,
+    "timeWeek": 109,
     "timeMonth": 88,
     "timeYear": 195,
     "dailyMinutesDown": {
