@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 132,
-    "timeDay": 159,
-    "timeWeek": 107,
-    "timeMonth": 110,
+    "timeDay": 86,
+    "timeWeek": 99,
+    "timeMonth": 111,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2025-12-14": 25,
@@ -34,7 +34,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipap.chaco.gov.ar.ico",
     "slug": "ipap-web",
     "status": "down",
-    "uptime": "51.55%",
+    "uptime": "51.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -45,7 +45,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-15": 1057,
+      "2026-10-16": 191,
+      "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
@@ -408,8 +409,7 @@
       "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
-      "2025-10-17": 1440,
-      "2025-10-16": 1440
+      "2025-10-17": 1440
     }
   },
   {
@@ -418,7 +418,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.ipap.chaco.gov.ar.ico",
     "slug": "ipap-app",
     "status": "down",
-    "uptime": "3.53%",
+    "uptime": "3.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -429,7 +429,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-15": 1057,
+      "2026-10-16": 191,
+      "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
@@ -792,8 +793,7 @@
       "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
-      "2025-10-17": 1440,
-      "2025-10-16": 1440
+      "2025-10-17": 1440
     }
   },
   {
@@ -802,15 +802,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/certificados.ipap.chaco.gov.ar.ico",
     "slug": "ipap-certificados",
     "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "80.31%",
-    "uptimeWeek": "97.19%",
-    "uptimeMonth": "97.51%",
-    "uptimeYear": "97.29%",
+    "uptime": "99.36%",
+    "uptimeDay": "40.46%",
+    "uptimeWeek": "91.49%",
+    "uptimeMonth": "96.20%",
+    "uptimeYear": "97.18%",
     "time": 1137,
-    "timeDay": 1107,
-    "timeWeek": 1225,
-    "timeMonth": 1216,
+    "timeDay": 0,
+    "timeWeek": 1260,
+    "timeMonth": 1218,
     "timeYear": 1137,
     "dailyMinutesDown": {
       "2026-06-10": 401,
@@ -876,7 +876,8 @@
       "2026-09-27": 97,
       "2026-09-30": 91,
       "2026-09-29": 78,
-      "2026-10-15": 284
+      "2026-10-16": 191,
+      "2026-10-15": 667
     }
   },
   {
@@ -890,11 +891,11 @@
     "uptimeWeek": "97.20%",
     "uptimeMonth": "97.55%",
     "uptimeYear": "97.31%",
-    "time": 2231,
-    "timeDay": 2184,
-    "timeWeek": 2707,
-    "timeMonth": 2527,
-    "timeYear": 2257,
+    "time": 2232,
+    "timeDay": 2344,
+    "timeWeek": 2775,
+    "timeMonth": 2506,
+    "timeYear": 2258,
     "dailyMinutesDown": {
       "2026-06-09": 401,
       "2026-06-10": 396,
@@ -974,9 +975,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 173,
-    "timeDay": 126,
-    "timeWeek": 100,
-    "timeMonth": 101,
+    "timeDay": 87,
+    "timeWeek": 93,
+    "timeMonth": 102,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2025-12-14": 25,
